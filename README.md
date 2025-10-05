@@ -1,11 +1,19 @@
 # 📘 Data Mining Notes (DMCT-Based)
 
-These are **Data Mining notes written in Persian (Farsi)**, prepared in **Jupyter Notebook format** and based on the textbook  
-[**Data Mining: Concepts and Techniques (DMCT)**](https://hanj.cs.illinois.edu/bk4/).
+<p align="center">
+  <img src="https://hanj.cs.illinois.edu/bk4/index_files/image001.png" alt="DMCT Cover" width="350">
+</p>
+
+<p align="center">
+  📘 <b>Data Mining Notes (DMCT-Based)</b><br>
+  Written in Persian (Farsi) — Based on the English textbook 
+  <a href="https://hanj.cs.illinois.edu/bk4/">Data Mining: Concepts and Techniques (DMCT)</a>
+</p>
 
 Each notebook corresponds to one chapter of the DMCT book, covering both **theoretical foundations** and **practical Python implementations**.
 
 ---
+
 
 ## 🧠 Contents
 

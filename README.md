@@ -10,6 +10,8 @@
 
 ---
 
+<p align="center"><i>Course Material for Data Mining by <a href="https://linkedin.com/in/amin-eskandari-1756a73b?originalSubdomain=ir">Dr. Amin Eskandari</a> - Fall 2025</i></p>
+
 Each notebook corresponds to one chapter of the DMCT book, covering both **theoretical foundations** and **practical Python implementations**.
 
 ---

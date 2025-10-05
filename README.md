@@ -54,7 +54,7 @@ Islamic Azad University of Shiraz – Fall 2025
 ## 📜 License
 
 This educational material is released under the  
-**Creative Commons Attribution 1.0 License (CC BY 1.0)**.  
+[**Creative Commons Attribution 1.0 License (CC BY 1.0)**.](https://github.com/hrnrxb/Data_Mining_Fall2025/blob/main/LICENSE)  
 You are free to share and adapt the material, provided proper credit is given.
 
 ---
